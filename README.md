@@ -1,6 +1,4 @@
-# Rust Programming Language Guide
-
-## Introduction to Rust
+# Learning Rust
 
 Rust is a modern systems programming language that focuses on safety, speed, and concurrency. It was created by Mozilla Research and has gained significant popularity due to its unique features:
 
